@@ -29,3 +29,7 @@ EXPOSE 1313
 
 # [Optional] Uncomment if you want to install more global node packages
 # RUN sudo -u node npm install -g <your-package-list-here>
+#About Docker
+# Docker is a platform for developing and running applications. It is a open source platform. It allows developers to package applications to containers.
+# Generally It is used for software contanarization. 
+# 
